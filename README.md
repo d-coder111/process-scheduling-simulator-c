@@ -38,6 +38,10 @@ A console-based **CPU Scheduling Simulator** implemented in C that demonstrates 
 
 ---
 
+## 📸 Sample Output
+
+![CPU Scheduler Output](output.png)
+
 ## ⭐ Show Your Support
 
 If you find this project useful, please consider starring ⭐ the repository. It helps increase visibility and encourages further development and enhancements.
